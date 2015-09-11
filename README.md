@@ -1,4 +1,7 @@
 # 2015_Plalab_PySerial
+## ?
+* 32bit, 64bit : GUI library
+
 ## Markdown 문법 참조
 * [마크다운으로 글을 쓰자](http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/)
 * [마크 다운 문법 가이드 – Song Young-Jin](http://scriptogr.am/myevan/post/markdown-syntax-guide-for-scriptogram)
